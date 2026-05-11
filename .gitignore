@@ -1,4 +1,4 @@
 .DS_Store
+build/
 Illustrator Mockups/
-build/generate-index.sh
-build/sync-and-generate.sh
+*.ai
